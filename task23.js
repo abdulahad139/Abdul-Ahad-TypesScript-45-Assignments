@@ -1,0 +1,18 @@
+var car = "Honda";
+var age = 21;
+var city = "Karachi";
+var student = true;
+console.log("is car Honda? I predict true");
+console.log(car == "Honda");
+console.log("is car Bugatti? I predict False");
+console.log(car == "Bugatti");
+console.log("Is age > 20? I predict True.");
+console.log(age > 20);
+console.log("Is age < 20? I predict False.");
+console.log(age < 20);
+console.log("Is city == 'Karachi'? I predict True.");
+console.log(city == 'Karachi');
+console.log("Is city == 'Los Angeles'? I predict False.");
+console.log(city == 'Los Angeles');
+console.log("Is isStudent == true? I predict True.");
+console.log(student == true);
