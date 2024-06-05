@@ -1,4 +1,6 @@
 # Abdul-Ahad-TypesScript-45-Assignments
+This 45 TypeScript Questions Assignment is given in Governor Sindh IT initiative.<br><br/>
+All the questions are present in this [repo](https://github.com/panaverse/learn-typescript/blob/master/NODE_PROJECTS/getting-started-exercises.md)
 # TypeScript Practice Exercises
 This repository contains a collection of TypeScript practice exercises aimed at beginners. Each exercise is provided as a separate TypeScript (.ts) file along with its corresponding JavaScript (.js) file. These exercises cover a range of topics, including basic programming concepts, conditionals, loops, functions, arrays, and objects. <br><br/>
 
